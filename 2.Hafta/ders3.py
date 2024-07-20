@@ -140,6 +140,7 @@ meyveler.remove("Mango")
 
 # -> discard() metodu: remove() metodundan farklı olarak silmek istediğimiz eleman kümede yoksa hata vermeyecektir.:
 meyveler.discard("Vişne")
+
 # -> intersection() metodu: iki kümenin kesişimini verir:
 
 kume1 = {1,5,6,8,12,45}
@@ -163,3 +164,4 @@ print(mesaj)
 #--------------------------------------------------------------------#--------------------------------------------------------------------#
 
 #SÖZLÜK (DICTIONARY)
+
