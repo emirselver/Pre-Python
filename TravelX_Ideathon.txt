@@ -1,0 +1,156 @@
+########### ANALİZ RAPORU ###########
+
+### Proje Fikri: VR/AR Destekli Havaalanı Rehberi
+
+#### Proje Açıklaması:
+Bu proje, yolcuların havaalanı içinde kolayca yön bulmalarını sağlamak için artırılmış gerçeklik (AR) ve sanal gerçeklik (VR) teknolojilerini kullanarak geliştirilecek bir mobil uygulamayı kapsamaktadır. Uygulama, havaalanı içindeki kapılar, restoranlar, mağazalar ve diğer önemli noktaların 3D olarak gösterimini sağlar ve yolcuların havaalanı deneyimlerini iyileştirir.
+
+#### Proje Detayları:
+
+##### 1. Amaç ve Hedefler
+- **Amaç:** Yolcuların havaalanı içinde kolayca yön bulmalarını sağlamak ve havaalanı deneyimlerini iyileştirmek.
+- **Hedefler:**
+  - Yolcuların havaalanı içindeki önemli noktalara kolayca ulaşmalarını sağlamak.
+  - Yolcu memnuniyetini artırmak.
+  - Havaalanı içindeki karmaşıklığı azaltmak.
+
+##### 2. Teknolojiler
+- **Artırılmış Gerçeklik (AR):** Kullanıcıların mobil cihazlarının kameralarını kullanarak gerçek dünya üzerindeki sanal objeleri görmelerini sağlar.
+- **Sanal Gerçeklik (VR):** Kullanıcıların tamamen sanal bir ortamda gezinmelerini sağlar.
+- **Mobil Uygulamalar:** iOS ve Android platformları için geliştirilecek.
+- **GPS ve Konum Teknolojileri:** Kullanıcıların konumlarını belirlemek için.
+- **3D Modelleme ve Grafikler:** Havaalanının 3D modellerini oluşturmak için.
+
+##### 3. Uygulama Özellikleri
+- **AR Yön Bulma:**
+  - Gerçek zamanlı yön tarifleri.
+  - Kapılar, restoranlar, mağazalar ve diğer önemli noktaların 3D gösterimi.
+  - Yolcuların mevcut konumlarını gösteren ve hedeflerine yönlendiren bir AR harita.
+- **VR Havaalanı Turları:**
+  - Yolcuların sanal olarak havaalanında gezmelerini sağlayan VR turları.
+  - Özellikle büyük havaalanlarında yön bulma ve alışma süreçlerini kolaylaştırma.
+- **İnteraktif Haritalar:**
+  - Havaalanının 3D haritaları.
+  - Kapı numaraları, restoranlar, mağazalar ve diğer tesislerin detaylı bilgileri.
+- **Dil Desteği:**
+  - Birden fazla dil desteği ile yolculara anadillerinde rehberlik.
+- **Push Bildirimleri:**
+  - Yolculara anlık bildirimler gönderme (uçuş değişiklikleri, kapı değişiklikleri, güvenlik uyarıları vb.).
+
+##### 4. Kullanım Senaryoları
+- **Yeni Gelen Yolcular:**
+  - İlk kez gelen yolcular için hızlı bir şekilde yön bulma ve havaalanında alışma.
+- **Transit Yolcular:**
+  - Farklı kapılara geçiş yapacak transit yolcuların hızlı ve kolay yön bulması.
+- **Engelli Yolcular:**
+  - Engelli yolcular için özel rotalar ve erişilebilirlik bilgileri.
+- **Havaalanı Personeli:**
+  - Havaalanı personelinin yolculara daha iyi rehberlik edebilmesi için kullanım.
+
+##### 5. Uygulamanın Geliştirilmesi
+- **Geliştirme Süreci:**
+  - **Araştırma ve Planlama:** Havaalanının mevcut durumunu ve yolcu ihtiyaçlarını analiz etme.
+  - **Tasarım:** Kullanıcı dostu arayüz ve 3D modelleme çalışmaları.
+  - **Geliştirme:** AR/VR entegrasyonu, mobil uygulama geliştirme.
+  - **Test:** Kullanıcı testleri ve hata ayıklama.
+  - **Lansman:** Uygulamanın havaalanında kullanıma sunulması.
+- **Ekip:** Proje yöneticisi, yazılım geliştiriciler, AR/VR uzmanları, 3D modelleyiciler, UX/UI tasarımcıları.
+
+##### 6. Başarı Ölçütleri
+- **Kullanıcı Memnuniyeti:** Kullanıcı geri bildirimleri ve değerlendirmeleri.
+- **Kullanım Oranı:** Uygulamanın havaalanında ne kadar sıklıkla kullanıldığı.
+- **Navigasyon Başarısı:** Kullanıcıların hedeflerine ne kadar hızlı ve doğru şekilde ulaştıkları.
+- **Destek Talepleri:** Uygulama kullanımı sırasında ortaya çıkan sorunlar ve destek taleplerinin sayısı.
+
+Bu detaylandırılmış proje fikri, yolcuların havaalanı deneyimlerini önemli ölçüde iyileştirebilir ve havaalanının genel işleyişine katkı sağlayabilir.
+
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+########### ANALİZ RAPORU ###########
+
+### VR/AR Destekli Havaalanı Rehberi Projesi: İş Analizi Raporu
+
+#### 1. Proje Özeti
+**Proje Adı:** VR/AR Destekli Havaalanı Rehberi  
+**Amaç:** Yolcuların havaalanı içinde kolayca yön bulmalarını sağlamak ve havaalanı deneyimlerini iyileştirmek.  
+**Teknolojiler:** Artırılmış Gerçeklik (AR), Sanal Gerçeklik (VR), Mobil Uygulamalar, GPS ve Konum Teknolojileri, 3D Modelleme ve Grafikler.  
+**Hedef Kitle:** Havaalanı yolcuları, havaalanı personeli, engelli yolcular, transit yolcular.
+
+#### 2. Mevcut Durum Analizi
+Havaalanları, karmaşık yapıları ve geniş alanları ile yolcuların kolayca kaybolmasına ve yön bulma sorunları yaşamasına neden olabilmektedir. Mevcut yön bulma sistemleri genellikle yeterli bilgi sağlamamakta ve yolcuların deneyimlerini olumsuz etkilemektedir. Bu durum, müşteri memnuniyetini düşürmekte ve havaalanı operasyonlarını zorlaştırmaktadır.
+
+#### 3. İş Hedefleri
+- Yolcuların havaalanı içinde yön bulmalarını kolaylaştırmak.
+- Yolcu memnuniyetini artırmak.
+- Havaalanı içindeki karmaşıklığı azaltmak.
+- Havaalanı personelinin yolculara daha iyi rehberlik etmesini sağlamak.
+
+#### 4. Proje Gereksinimleri
+##### 4.1 Fonksiyonel Gereksinimler
+- **AR Yön Bulma:**
+  - Gerçek zamanlı yön tarifleri.
+  - Kapılar, restoranlar, mağazalar ve diğer önemli noktaların 3D gösterimi.
+  - Yolcuların mevcut konumlarını gösteren ve hedeflerine yönlendiren bir AR harita.
+- **VR Havaalanı Turları:**
+  - Yolcuların sanal olarak havaalanında gezmelerini sağlayan VR turları.
+  - Özellikle büyük havaalanlarında yön bulma ve alışma süreçlerini kolaylaştırma.
+- **İnteraktif Haritalar:**
+  - Havaalanının 3D haritaları.
+  - Kapı numaraları, restoranlar, mağazalar ve diğer tesislerin detaylı bilgileri.
+- **Dil Desteği:**
+  - Birden fazla dil desteği ile yolculara anadillerinde rehberlik.
+- **Push Bildirimleri:**
+  - Yolculara anlık bildirimler gönderme (uçuş değişiklikleri, kapı değişiklikleri, güvenlik uyarıları vb.).
+
+##### 4.2 Teknik Gereksinimler
+- **Platformlar:** iOS ve Android mobil cihazlar.
+- **Entegrasyonlar:** GPS ve konum servisleri, havaalanı bilgi sistemleri.
+- **Güvenlik:** Kullanıcı verilerinin korunması ve gizliliğin sağlanması.
+- **Performans:** Uygulamanın hızlı ve sorunsuz çalışması.
+
+#### 5. Paydaş Analizi
+- **Yolcular:** Uygulamanın ana kullanıcıları. Havaalanı içinde yön bulma ve bilgi alma ihtiyaçları var.
+- **Havaalanı Yönetimi:** Projeyi finanse eden ve uygulamadan sorumlu olan taraf. Yolcu memnuniyeti ve operasyonel verimlilik hedeflerine ulaşmak istiyor.
+- **Havaalanı Personeli:** Yolculara rehberlik eden ve yardımcı olan personel. Uygulama sayesinde daha etkili hizmet sunabilecekler.
+- **Geliştirme Ekibi:** Projenin teknik geliştirmesinden sorumlu yazılım geliştiriciler, AR/VR uzmanları, 3D modelleyiciler ve UX/UI tasarımcıları.
+
+#### 6. Proje Zaman Çizelgesi
+##### 6.1 Araştırma ve Planlama (1 Ay)
+- Havaalanı mevcut durum analizi.
+- Yolcu ihtiyaçlarının belirlenmesi.
+- Proje planının oluşturulması.
+
+##### 6.2 Tasarım (2 Ay)
+- Kullanıcı arayüzü ve deneyimi (UI/UX) tasarımı.
+- 3D modelleme ve grafik tasarımı.
+- AR/VR entegrasyonu için teknik altyapının hazırlanması.
+
+##### 6.3 Geliştirme (3 Ay)
+- AR/VR uygulama geliştirme.
+- Mobil uygulama geliştirme (iOS ve Android).
+- GPS ve konum teknolojileri entegrasyonu.
+
+##### 6.4 Test ve Hata Ayıklama (1 Ay)
+- Kullanıcı testleri.
+- Hata ayıklama ve performans iyileştirmeleri.
+
+##### 6.5 Lansman ve Eğitim (1 Ay)
+- Uygulamanın havaalanında kullanıma sunulması.
+- Havaalanı personeline uygulama kullanımı konusunda eğitim verilmesi.
+
+#### 7. Risk Analizi
+- **Teknik Riskler:** AR/VR teknolojilerinin entegrasyonu ve performans sorunları.
+- **Kullanıcı Kabulü:** Yolcuların ve personelin yeni teknolojiyi benimseme süreci.
+- **Güvenlik ve Gizlilik:** Kullanıcı verilerinin korunması ve gizliliğin sağlanması.
+- **Zaman ve Bütçe:** Projenin zamanında ve bütçe dahilinde tamamlanması.
+
+#### 8. Başarı Ölçütleri
+- **Kullanıcı Memnuniyeti:** Kullanıcı geri bildirimleri ve değerlendirmeleri.
+- **Kullanım Oranı:** Uygulamanın havaalanında ne kadar sıklıkla kullanıldığı.
+- **Navigasyon Başarısı:** Kullanıcıların hedeflerine ne kadar hızlı ve doğru şekilde ulaştıkları.
+- **Destek Talepleri:** Uygulama kullanımı sırasında ortaya çıkan sorunlar ve destek taleplerinin sayısı.
+
+Bu iş analizi raporu, VR/AR destekli havaalanı rehberi projesinin kapsamını, gereksinimlerini ve başarı ölçütlerini detaylı bir şekilde tanımlar. Proje, yolcu memnuniyetini artırmak ve havaalanı operasyonlarını iyileştirmek için önemli bir adım olacaktır.
