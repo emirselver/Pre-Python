@@ -137,7 +137,3 @@
 
 #     else:
 #         print("Hatali islem yaptiniz!")
-        
-    
-
-print("deneme")
