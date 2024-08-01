@@ -37,24 +37,24 @@
 # kullanici_adi = "admin"
 # sifre = "admin123"
 
-sayac = 0
+# sayac = 0
 
-while True:
-    sayac += 1
+# while True:
+#     sayac += 1
 
-    kAdi = input("Kullanici adi giriniz: ")
-    kSifre = input("Sifre giriniz: ")
+#     kAdi = input("Kullanici adi giriniz: ")
+#     kSifre = input("Sifre giriniz: ")
 
-    if kAdi == kullanici_adi and kSifre == sifre:
-        print("Giris islemi basarili...")
-        break
+#     if kAdi == kullanici_adi and kSifre == sifre:
+#         print("Giris islemi basarili...")
+#         break
     
-    elif sayac == 3:
-        print("Giris hakkiniz kalmadi!")
-        break
+#     elif sayac == 3:
+#         print("Giris hakkiniz kalmadi!")
+#         break
 
-    else:
-        print((3 - sayac), "hakkiniz kaldi")
+#     else:
+#         print((3 - sayac), "hakkiniz kaldi")
 
 #------------------------------------------##------------------------------------------#
 
@@ -81,28 +81,28 @@ while True:
 
 #5) Listedeki tek çift elemanları toplayıp teklerin toplamına bölme (listeye 5 eleman döngüyle alınacak)
 
-sayilar = []
-cift_toplam = 0
-tek_toplam = 0
+# sayilar = []
+# cift_toplam = 0
+# tek_toplam = 0
 
-kac_eleman = int(input("Kac eleman girmek istiyorsunuz? : "))
-for i in range(1, kac_eleman + 1):
-    sayi = int(input(f"{i}. Sayiyi Giriniz: "))
-    sayilar.append(sayi)
+# kac_eleman = int(input("Kac eleman girmek istiyorsunuz? : "))
+# for i in range(1, kac_eleman + 1):
+#     sayi = int(input(f"{i}. Sayiyi Giriniz: "))
+#     sayilar.append(sayi)
 
-    sayilar_uzunluk = len(sayilar)
+#     sayilar_uzunluk = len(sayilar)
 
-for sayi in sayilar:
-    if sayi % 2 == 0:
-        cift_toplam += sayi
-    else:
-        tek_toplam += sayi
+# for sayi in sayilar:
+#     if sayi % 2 == 0:
+#         cift_toplam += sayi
+#     else:
+#         tek_toplam += sayi
 
-bolum = cift_toplam / tek_toplam
-if bolum == 0:
-    print("Bolme islemi yapilamadi...")
+# bolum = cift_toplam / tek_toplam
+# if bolum == 0:
+#     print("Bolme islemi yapilamadi...")
 
-print("Listedeki cift sayilarin tek sayilar toplamına bölümü :{} ".format(bolum))
+# print("Listedeki cift sayilarin tek sayilar toplamına bölümü :{} ".format(bolum))
 
 #------------------------------------------##------------------------------------------#
 
@@ -141,3 +141,5 @@ print("Listedeki cift sayilarin tek sayilar toplamına bölümü :{} ".format(bo
 
 #     else:
 #         print("Hatali islem yaptiniz!")
+
+#
